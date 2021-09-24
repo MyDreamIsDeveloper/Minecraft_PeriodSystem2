@@ -1,0 +1,5 @@
+name: Period System2
+main: com.windows.Period2.Period2
+version: 1.0
+commands:
+  기간2:
